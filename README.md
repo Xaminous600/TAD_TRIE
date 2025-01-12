@@ -46,4 +46,3 @@ Si deseas ampliar o personalizar este proyecto, aquí tienes algunas ideas:
 
 ## ⚙️ Requisitos  
 - **Compilador C++** compatible con C++11 o superior.  
-- (Opcional) Archivo `words.txt` para inicializar palabras en el TRIE.
